@@ -206,7 +206,7 @@ _CommonMark with GitHub Extensions_
 **GitHub Flavored Markdown (GFM)**
 
 - Spec (web: [`github.github.com/gfm`](https://github.github.com/gfm))
-- Code (github: [`github/cmark`](https://github.com/github/cmark) - reference code in C (fork of cmark w/ extensions)
+- Code (github: [`github/cmark-gfm`](https://github.com/github/cmark-gfm)) - reference code in C (fork of cmark w/ extensions)
 
 Extensions include:
 
@@ -275,8 +275,8 @@ markdown library & command line tool (in Ruby)
 
 
 **Markdown Extended (MDE)**
-(github: [`e-picas/markdown-extended`](https://github.com/e-picas/markdown-extended)
-- transform plain text input (strings or files) in various output formats (in PHP)
+(github: [`e-picas/markdown-extended`](https://github.com/e-picas/markdown-extended)) -
+transform plain text input (strings or files) in various output formats (in PHP)
 
 <a name="marked"></a>
 
@@ -312,7 +312,7 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 
 ### Babelmark
 
-- [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
+- [Babelmark 3](https://babelmark.github.io/) - a tool for comparing the output of various implementations of Markdown syntax
     - [Babelmark 2 F.A.Q.](http://johnmacfarlane.net/babelmark2/faq.html) - frequently asked questions (and answers) e.g. ... ??
 
 
@@ -325,7 +325,7 @@ to be done
 - [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases like "leverage" / "cutting-edge", punctuation density, zero-width unicode tells). EN+PL, MIT, GitHub Action included.
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
-- [mdlint]() to be done
+- **mdlint** - to be done
 - [mdsf](https://github.com/hougesen/mdsf) - Use your preferred code formatter to format markdown code snippets.
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - [Visual Studio Code Plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) enabling in-place linting of markdown files.
 - [mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust. GitHub Actions are supported.
@@ -334,7 +334,7 @@ to be done
 ### Markdown Web Components / Custom Elements
 
 - [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
-- [`<x-markdown>`]() - to be done
+- **`<x-markdown>`** - to be done
 
 
 
@@ -361,9 +361,9 @@ makes developing websites simple (in Ruby)
 
 **Compiiile** (github: [@compiiile/compiiile :octocat:](https://github.com/compiiile/compiiile), npm: [`@compiiile/compiiile`](https://www.npmjs.com/package/@compiiile/compiiile)) – Preview and serve folders containing Markdown files with full-text search and presentation slides.
 
-**ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd), npm: [`zenmd`](https://www.npmjs.com/package/zenmd) – The simplest way to convert a folder of Markdown files into a site of HTML files.
+**ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd), npm: [`zenmd`](https://www.npmjs.com/package/zenmd)) – The simplest way to convert a folder of Markdown files into a site of HTML files.
 
-**markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of Markdown website
+**markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/)) - Client-side rendering of Markdown website
 
 ### Markdown to Email
 
