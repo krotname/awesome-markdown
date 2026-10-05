@@ -1,3 +1,6 @@
+[![CI](https://github.com/krotname/awesome-markdown/actions/workflows/validate.yml/badge.svg?branch=master)](https://github.com/krotname/awesome-markdown/actions/workflows/validate.yml?query=branch%3Amaster)
+[![Python](https://img.shields.io/badge/Python-technology-555.svg)](https://github.com/krotname/awesome-markdown/search?l=Python)
+
 Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers »](https://github.com/mundimark/awesome-markdown-editors) 
 
 
@@ -554,6 +557,3 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Send them along to the markdown-discuss mailing list. Thanks!
-
-
-
